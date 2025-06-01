@@ -11,7 +11,7 @@ const Footer = () => {
         <div>
           {/* <p className='text-[#FBAB55] text-2xl font-bold'>Breathe Pilates Studio</p> */}
           <Image src='/logo.png' alt='logo' width={70} height={100} className='rounded-lg'/>
-          <p className="text-gray-400 mb-4 py-2">Classic cuts with modern style</p>
+        {/* <p className="text-gray-400 mb-4 py-2">Classic cuts with modern style</p> */ }
           <div className="flex gap-4">
             <a href="#" className="bg-[#FBAB55] p-3 rounded-full text-white hover:bg-yellow-600 transition">
               <FaInstagram />
